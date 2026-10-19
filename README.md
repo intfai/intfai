@@ -15,11 +15,11 @@
 ## 关于我
 
 ```yaml
-name:     intfai
+name:     刘
 role:     # ✏️ 例：Full-Stack Developer / AI Engineer
 focus:    # ✏️ 当前主攻方向，例：LLM 应用与工程化
 learning: # ✏️ 正在学习，例：Rust、分布式系统
-location: # ✏️ 城市
+location: Shanghai, China
 ```
 
 > ✏️ 这里写 2–3 行自我介绍：你在做什么、擅长解决什么问题、希望和谁合作。
