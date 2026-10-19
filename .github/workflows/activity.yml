@@ -1,0 +1,46 @@
+name: Update recent activity
+
+on:
+  schedule:
+    - cron: "0 22 * * *" # 每天 06:00 (Asia/Shanghai) 刷新一次
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/update_activity.py"
+      - ".github/workflows/activity.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-readme
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate activity section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: python .github/scripts/update_activity.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README 无变化，跳过提交"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh recent activity"
+          git push
