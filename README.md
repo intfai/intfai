@@ -4,9 +4,9 @@
 
 <br/><br/>
 
-<a href="https://github.com/intfai"><img src="https://komarev.com/ghpvc/?username=intfai&label=Profile%20views&color=2F81F7&style=flat-square" alt="views" /></a>
 <a href="https://github.com/intfai?tab=followers"><img src="https://img.shields.io/github/followers/intfai?label=Followers&style=flat-square&color=2F81F7&labelColor=0d1117" alt="followers" /></a>
 <a href="https://github.com/intfai?tab=repositories"><img src="https://img.shields.io/github/stars/intfai?affiliations=OWNER&label=Stars&style=flat-square&color=2F81F7&labelColor=0d1117" alt="stars" /></a>
+<a href="https://github.com/intfai?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fintfai&query=%24.public_repos&label=Repos&style=flat-square&color=2F81F7&labelColor=0d1117" alt="repos" /></a>
 
 </div>
 
@@ -22,7 +22,7 @@ learning: # ✏️ 正在学习，例：Rust、分布式系统
 location: # ✏️ 城市
 ```
 
-> ✏️ 这里写一段 2–3 行的自我介绍：你在做什么、擅长解决什么问题、希望和谁合作。
+> ✏️ 这里写 2–3 行自我介绍：你在做什么、擅长解决什么问题、希望和谁合作。
 
 ---
 
@@ -42,16 +42,12 @@ location: # ✏️ 城市
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=intfai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intfai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=intfai&show_icons=true&theme=tokyonight&hide_border=true&card_width=440" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intfai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=360" alt="langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=intfai&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=intfai&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity" />
+<img src="https://streak-stats.demolab.com?user=intfai&theme=tokyonight&hide_border=true&card_width=800" alt="streak" />
 
 </div>
 
