@@ -42,8 +42,9 @@ location: Shanghai, China
 
 <!--START_SECTION:activity-->
 <!-- 本区块由 .github/workflows/activity.yml 自动生成，请勿手动编辑 -->
-- 🔨 向 [intfai/intfai](https://github.com/intfai/intfai) 推送了代码 → `main` · <sub>6 分钟前</sub>
-- 🌿 创建分支 `main` ([intfai/trae-test-deploy-2026](https://github.com/intfai/trae-test-deploy-2026)) · <sub>8 分钟前</sub>
+- 🍴 Fork 了 [obra/superpowers](https://github.com/obra/superpowers) · <sub>15 分钟前</sub>
+- 🔨 向 [intfai/intfai](https://github.com/intfai/intfai) 推送了代码 → `main` · <sub>16 小时前</sub>
+- 🌿 创建分支 `main` ([intfai/trae-test-deploy-2026](https://github.com/intfai/trae-test-deploy-2026)) · <sub>15 小时前</sub>
 <!--END_SECTION:activity-->
 
 ---
