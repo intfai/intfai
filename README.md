@@ -42,11 +42,12 @@ location: Shanghai, China
 
 <!--START_SECTION:activity-->
 <!-- 本区块由 .github/workflows/activity.yml 自动生成，请勿手动编辑 -->
-- 🔨 向 [intfai/monster-quest](https://github.com/intfai/monster-quest) 推送了代码 → `main` · <sub>7 天前</sub>
-- 🌿 创建分支 `main` ([intfai/intfai](https://github.com/intfai/intfai)) · <sub>8 天前</sub>
-- 🚀 发布 v1.0.0 ([intfai/monster-quest](https://github.com/intfai/monster-quest)) · <sub>7 天前</sub>
-- 🔨 向 [intfai/intfai](https://github.com/intfai/intfai) 推送了代码 → `main` · <sub>8 天前</sub>
-- 🍴 Fork 了 [obra/superpowers](https://github.com/obra/superpowers) · <sub>8 天前</sub>
+- 🍴 Fork 了 [AIwork4me/first-pr-playbook](https://github.com/AIwork4me/first-pr-playbook) · <sub>16 小时前</sub>
+- 🔨 向 [intfai/monster-quest](https://github.com/intfai/monster-quest) 推送了代码 → `main` · <sub>8 天前</sub>
+- 🌿 创建分支 `main` ([intfai/intfai](https://github.com/intfai/intfai)) · <sub>9 天前</sub>
+- 🚀 发布 v1.0.0 ([intfai/monster-quest](https://github.com/intfai/monster-quest)) · <sub>8 天前</sub>
+- 🔨 向 [intfai/intfai](https://github.com/intfai/intfai) 推送了代码 → `main` · <sub>9 天前</sub>
+- 🍴 Fork 了 [obra/superpowers](https://github.com/obra/superpowers) · <sub>9 天前</sub>
 <!--END_SECTION:activity-->
 
 ---
