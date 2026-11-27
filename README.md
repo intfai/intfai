@@ -42,13 +42,13 @@ location: Shanghai, China
 
 <!--START_SECTION:activity-->
 <!-- 本区块由 .github/workflows/activity.yml 自动生成，请勿手动编辑 -->
-- ⭐ 收藏（Star）了 [shenyicong/elevator-ebike-detection](https://github.com/shenyicong/elevator-ebike-detection) · <sub>2 天前</sub>
-- 🌿 创建分支 `docs/p0-final-onboarding-closure` ([intfai/first-pr-playbook](https://github.com/intfai/first-pr-playbook)) · <sub>28 天前</sub>
-- 🌿 创建分支 `feat/p0-beginner-onboarding-lab` ([intfai/first-pr-playbook](https://github.com/intfai/first-pr-playbook)) · <sub>28 天前</sub>
-- ⭐ 收藏（Star）了 [intfai/intfai](https://github.com/intfai/intfai) · <sub>27 天前</sub>
-- 🌿 创建分支 `assets/add-first-pr-playbook-hero` ([intfai/first-pr-playbook](https://github.com/intfai/first-pr-playbook)) · <sub>28 天前</sub>
-- 🌿 创建分支 `docs/issue-reporter-first-policy-20261028` ([intfai/first-pr-playbook](https://github.com/intfai/first-pr-playbook)) · <sub>28 天前</sub>
-- 🍴 Fork 了 [AIwork4me/first-pr-playbook](https://github.com/AIwork4me/first-pr-playbook) · <sub>28 天前</sub>
+- ⭐ 收藏（Star）了 [shenyicong/elevator-ebike-detection](https://github.com/shenyicong/elevator-ebike-detection) · <sub>3 天前</sub>
+- 🌿 创建分支 `docs/p0-final-onboarding-closure` ([intfai/first-pr-playbook](https://github.com/intfai/first-pr-playbook)) · <sub>29 天前</sub>
+- 🌿 创建分支 `feat/p0-beginner-onboarding-lab` ([intfai/first-pr-playbook](https://github.com/intfai/first-pr-playbook)) · <sub>29 天前</sub>
+- ⭐ 收藏（Star）了 [intfai/intfai](https://github.com/intfai/intfai) · <sub>28 天前</sub>
+- 🌿 创建分支 `assets/add-first-pr-playbook-hero` ([intfai/first-pr-playbook](https://github.com/intfai/first-pr-playbook)) · <sub>29 天前</sub>
+- 🌿 创建分支 `docs/issue-reporter-first-policy-20261028` ([intfai/first-pr-playbook](https://github.com/intfai/first-pr-playbook)) · <sub>29 天前</sub>
+- 🍴 Fork 了 [AIwork4me/first-pr-playbook](https://github.com/AIwork4me/first-pr-playbook) · <sub>29 天前</sub>
 <!--END_SECTION:activity-->
 
 ---
